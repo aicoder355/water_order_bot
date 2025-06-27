@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "favorable-tree-460404-r6",
+  "private_key_id": "0ffd501ad6c93aac1755acf599aee9815561b326",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxDz4vaRuWJcnr\nHtim2+CyumbrwVfGUgEPl/HixSCaq1KT9KZ5TOCz2AgKpCREWiMI6BOsMzRbGYeb\nLF26lTEgANHKZ3fwxFUleZg8bdYtgBd3u4bpk1g6GiXNYmLF9R89EDyJx91FgMHv\nKmU55/7SBv5Ba+lNTQ6uwqvnSdT47bMCv9YxQiById15sTIEaQ/z2s3i/vB8K/0M\n2hSsRXetkG3p5QcbDDfhG4MvJVvLhtfDlxik+mjhr71Bh7ZLonyupUdNUahjPhyJ\nJoAEe0lR42knemu+yMgczqiPhMjW11geYKewArBgaIjxkjrinxSol6VWWooBG9Or\nAyAZuKevAgMBAAECggEAEMp4RDi8g/2ra1+ufgxl/60Lq5nXQBhwv1DSgIXfNKvA\nlgVicChpOsTm5lNwmQbPQb34d6EXevgt0vpfHR2e3gEV5BLx3eRQitBALqLf58q4\n7wLapXXyrPfj09lbspgvUTQj+ZD5m+i8+3hSxy4IDVTaccvRASKonMwbT0DCMKT5\nroY6JaPqxCE/3x+jFCBuqFUUopKsWXdAF7Ou/fwzIDTF8xVc+lu66kNvi6doyCuU\npiWv94fcuu7XT3MQjqk+9HivWhnB6WFPs+JQJRV/X6yc3HqUaNFMyROLTVSFXKNZ\n49+Dkeo8IAiW4wI2Mrm2HKvXeIvN+S4j7hpfMAWtOQKBgQDVS8X4Onmrb+uKheVh\nFYrlAesVzNTliRpsxV4o4yG7ayVkvT3udI1xdC88RZDhr1OFdFBLrxwmAfLk4jSH\nAtcqsuCd7IbQTuir9PvpsJT5A2IvRSVVWmt/ga8WePEi9RENsDIaNDMloHIwiKfC\nPDvhGCU/2DtbUHg/L3RuwHDf4wKBgQDUgjbs1tuNg+E5W4jU8DTCabA+4HBbwoVz\nfSorkAAPSHowBeutHO4vQYjkTFto83KuIoeWvpjtNLDELU3UY0m1gwMSoQuYZJrs\nzUGHe5S8wS4fWoIyI2Ci6+0DnWauMiY+RRkdgn3b93/CvU/AKNeSXpEebDvUZpLP\nlMt6bOSKxQKBgQDIsOM1DNAuXsBhNlr9XieyEnv/pxsqXjZe4dYW4p96mPY2M1ly\nZHgxqABJ1arcrvsHNsnWbI0vteW1NqH15tZNdsGh1kuC9Lw4D+p3l46UPnrDv2vB\nQ7Kh5oO3wVQicDP7jS2XOkZlwPGweORf/gzZXr6ts+clpDGAQkZrbubFwQKBgFW2\nA3M5IaqNU4zv11uTWqRDPnvNyGOqLGstQ5H4bZ28bNPrv2e+MG9M7mquRXwqHMoR\nUUDCtSmPQ/CMGUUdmsAkDFw6KlQX18jE7LY5aP9Mp06sEbEpRbPQlnMLzDtcLMKW\n2g9l71+GDri75GurzW7Sx5NOsj7z9CjXac6CFxfFAoGAP3GNq2o4HZEGb/hJKJ4u\njYf8AS1jNz9hDRnKjQ8dPZ/HEuqUbiVtid3xWMHAx22JwV6TbD118LbRfiqb3r0H\nwG6C3oSS9t0l4RuLrC1kmxIOkLYlxzvc14zMqW6FbhqFqpxFmoB9CR/MUv7khrkV\nd0L2IO3pWdKn7y4LiMdpDac=\n-----END PRIVATE KEY-----\n",
+  "client_email": "waterdeliverybot@favorable-tree-460404-r6.iam.gserviceaccount.com",
+  "client_id": "110483764323438761605",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/waterdeliverybot%40favorable-tree-460404-r6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
